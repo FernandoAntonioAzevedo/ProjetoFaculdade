@@ -168,6 +168,7 @@ textarea {
   width: 92%; 
 }
 
+/* Botões */
 .btn {
   background: #fff;
   color: #333;
@@ -231,6 +232,7 @@ textarea {
   display: none; 
 }
 
+/* Hero Section */
 .home-hero {
   color: #fff;
   background: linear-gradient(to right, rgba(0, 185, 99, 0.8), rgba(224, 165, 2, 0.8)), url(../../assets/svg/common-bg.svg);
@@ -272,7 +274,8 @@ textarea {
         display: none; 
       } 
     }
-
+  
+  /* Sociais fixas da Hero Section */  
   .home-hero__social {
     width: 5rem; 
   }
